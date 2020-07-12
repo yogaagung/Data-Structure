@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1474260142 source:c:\users\labdas\desktop\pertemuan 1\fungsi.c
+	"header.h"
+
+1474260167 c:\users\labdas\desktop\pertemuan 1\header.h
+
+1474260233 source:c:\users\labdas\desktop\pertemuan 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1474281140 source:d:\per -1\pertemuan 1\fungsi.c
+	"header.h"
+
+1474260168 d:\per -1\pertemuan 1\header.h
+
+1474331800 source:d:\per -1\pertemuan 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1474452300 source:h:\per -1\pertemuan 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1474260168 h:\per -1\pertemuan 1\header.h
+
+1474452084 source:h:\per -1\pertemuan 1\fungsi.c
+	"header.h"
+
+1474452084 source:i:\per -1\pertemuan 1\fungsi.c
+	"header.h"
+
+1474260168 i:\per -1\pertemuan 1\header.h
+

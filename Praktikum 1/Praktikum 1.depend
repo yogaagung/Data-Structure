@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1474254500 source:c:\users\labdas\desktop\praktikum 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1474254500 c:\users\labdas\desktop\praktikum 1\header.h
+
+1474254523 source:c:\users\labdas\desktop\praktikum 1\file.c
+	"header.h"
+

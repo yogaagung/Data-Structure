@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476673376 source:f:\praktikum\pertemuan 6\fungsi.c
+	"header.h"
+
+1476673376 f:\praktikum\pertemuan 6\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1476674218 source:f:\praktikum\pertemuan 6\main.c
+	"header.h"
+

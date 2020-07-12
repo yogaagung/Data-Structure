@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1479092018 source:c:\users\labdas\desktop\pertemuan 7\fungsi.c
+	"header.h"
+
+1479091505 c:\users\labdas\desktop\pertemuan 7\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1479093020 source:h:\praktikum\pertemuan 7\main.c
+	"header.h"
+
+1479092798 h:\praktikum\pertemuan 7\header.h
+	<stdio.h>
+	<stdlib.h>
+
