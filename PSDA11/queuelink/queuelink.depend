@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1350104441 source:c:\users\asus\desktop\queuelink\queuelink.c
+	"queuelink.h"
+
+1350104441 c:\users\asus\desktop\queuelink\queuelink.h
+	<stdio.h>
+	<stdlib.h>
+
+1350104446 source:c:\users\asus\desktop\queuelink\main.c
+	"queuelink.h"
+
+1076671605 source:e:\tugas\psda11\queuelink\queuelink.c
+	"queuelink.h"
+
+1076671214 e:\tugas\psda11\queuelink\queuelink.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1076670548 e:\tugas\psda11\queuelink\boolean.h
+
+1076671687 source:e:\tugas\psda11\queuelink\main.c
+	"queuelink.h"
+
+1076671778 source:e:\file ina\psda 10 & 11\psda11\queuelink\main.c
+	"queuelink.h"
+
+1076671216 e:\file ina\psda 10 & 11\psda11\queuelink\queuelink.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1076670550 e:\file ina\psda 10 & 11\psda11\queuelink\boolean.h
+
+1076671788 source:e:\file ina\psda 10 & 11\psda11\queuelink\queuelink.c
+	"queuelink.h"
+
+1076671778 source:f:\tugas kuliah\strukdat\psda\psda full\psda 10 & 11\new folder\psda11\queuelink\main.c
+	"queuelink.h"
+
+1480894577 f:\tugas kuliah\strukdat\psda\psda full\psda 10 & 11\new folder\psda11\queuelink\queuelink.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1076670550 f:\tugas kuliah\strukdat\psda\psda full\psda 10 & 11\new folder\psda11\queuelink\boolean.h
+

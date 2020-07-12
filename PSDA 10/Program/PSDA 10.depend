@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1387083069 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\main.c
+	"stack.h"
+
+1387081761 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1387080361 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\boolean.h
+
+1387083687 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\stack.c
+	"stack.h"
+
+1387088143 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\program\stack.c
+	"stack.h"
+
+1387088144 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\program\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1387080361 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\program\boolean.h
+
+1387088456 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\program\main.c
+	"stack.h"
+
+1387138858 source:e:\struktur data\psda full\psda 10\program\main.c
+	"stack.h"
+
+1387138546 e:\struktur data\psda full\psda 10\program\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1387130762 e:\struktur data\psda full\psda 10\program\boolean.h
+
+1387138544 source:e:\struktur data\psda full\psda 10\program\stack.c
+	"stack.h"
+
