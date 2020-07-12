@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1480301754 source:c:\users\labdas\desktop\praktikum 9\fungsi.c
+	"header.h"
+
+1480301593 c:\users\labdas\desktop\praktikum 9\header.h
+	<stdio.h>
+	<stdlib.h>
+
