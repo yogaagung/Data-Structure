@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1379158356 source:g:\tugas2 skolah\udinus\semester 3\struktur data\struk1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+
+1379157873 g:\tugas2 skolah\udinus\semester 3\struktur data\struk1\stack.h
+	"boolean.h"
+
+1379155404 source:g:\tugas2 skolah\udinus\semester 3\struktur data\struk1\funct.c
+	"stack.h"
+
+1379123014 g:\tugas2 skolah\udinus\semester 3\struktur data\struk1\boolean.h
+
+1379567550 source:g:\tugas2 skolah\udinus\semester 3\projek struktur data\struktur statis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+
+1379157873 g:\tugas2 skolah\udinus\semester 3\projek struktur data\struktur statis\stack.h
+	"boolean.h"
+
+1379123014 g:\tugas2 skolah\udinus\semester 3\projek struktur data\struktur statis\boolean.h
+
+1379155404 source:g:\tugas2 skolah\udinus\semester 3\projek struktur data\struktur statis\funct.c
+	"stack.h"
+
+1379567550 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 1\struktur statis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+
+1379157873 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 1\struktur statis\stack.h
+	"boolean.h"
+
+1379123014 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 1\struktur statis\boolean.h
+
+1379155404 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 1\struktur statis\funct.c
+	"stack.h"
+
+1379617952 source:h:\university\udinus\psda full\psda 1\struktur statis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+
+1379208274 h:\university\udinus\psda full\psda 1\struktur statis\stack.h
+	"boolean.h"
+
+1379173416 h:\university\udinus\psda full\psda 1\struktur statis\boolean.h
+
+1383802004 source:h:\university\udinus\psda full\psda 1\struktur statis\funct.c
+	"stack.h"
+
+1383802004 source:j:\psda full\psda 1\struktur statis\funct.c
+	"stack.h"
+
+1379208274 j:\psda full\psda 1\struktur statis\stack.h
+	"boolean.h"
+
+1379173416 j:\psda full\psda 1\struktur statis\boolean.h
+
+1442403128 source:j:\psda full\psda 1\struktur statis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+

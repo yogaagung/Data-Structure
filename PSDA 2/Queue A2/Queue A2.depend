@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1380043071 source:g:\tugas2 skolah\udinus\semester 3\struktur data\queue a2\funct.c
+	"queue.h"
+
+1380036813 g:\tugas2 skolah\udinus\semester 3\struktur data\queue a2\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380032497 g:\tugas2 skolah\udinus\semester 3\struktur data\queue a2\boolean.h
+
+1380040356 source:g:\tugas2 skolah\udinus\semester 3\struktur data\queue a2\main.c
+	"queue.h"
+
+1380046652 source:e:\struktur data\psda full\psda 2\queue a2\funct.c
+	"queue.h"
+
+1380036813 e:\struktur data\psda full\psda 2\queue a2\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380032497 e:\struktur data\psda full\psda 2\queue a2\boolean.h
+
+1380471506 source:e:\struktur data\psda full\psda 2\queue a2\main.c
+	"queue.h"
+

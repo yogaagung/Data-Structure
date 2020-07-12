@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1382441150 source:h:\tugas6\kontigu\main.c
+	"header.h"
+
+1382441150 h:\tugas6\kontigu\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1382441150 h:\tugas6\kontigu\boolean.h
+
+1382441150 source:h:\tugas6\kontigu\driver.c
+	"header.h"
+
+1382441150 source:f:\tugas6\kontigu\driver.c
+	"header.h"
+
+1382441150 f:\tugas6\kontigu\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1382441150 f:\tugas6\kontigu\boolean.h
+
+1382441150 source:f:\tugas6\kontigu\main.c
+	"header.h"
+
+1382441150 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\a111206712\kontigu\main.c
+	"header.h"
+
+1382441150 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\a111206712\kontigu\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1382441150 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\a111206712\kontigu\boolean.h
+
+1382441150 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\a111206712\kontigu\driver.c
+	"header.h"
+
+1384729128 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 6 fix\kontigu\driver.c
+	"header.h"
+
+1384739071 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 6 fix\kontigu\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1382441150 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 6 fix\kontigu\boolean.h
+
+1382441150 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 6 fix\kontigu\main.c
+	"header.h"
+
+1384740257 source:e:\struktur data\psda full\psda 6 fix\adt kontigu\driver.c
+	"header.h"
+
+1384739071 e:\struktur data\psda full\psda 6 fix\adt kontigu\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1382441150 e:\struktur data\psda full\psda 6 fix\adt kontigu\boolean.h
+
+1382441150 source:e:\struktur data\psda full\psda 6 fix\adt kontigu\main.c
+	"header.h"
+

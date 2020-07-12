@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1380074787 source:g:\tugas2 skolah\udinus\semester 3\struktur data\queue a3\main.c
+	"queue.h"
+
+1380073739 g:\tugas2 skolah\udinus\semester 3\struktur data\queue a3\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380073739 g:\tugas2 skolah\udinus\semester 3\struktur data\queue a3\boolean.h
+
+1380078592 source:g:\tugas2 skolah\udinus\semester 3\struktur data\queue a3\funct.c
+	"queue.h"
+
+1380074787 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 2\queue a3\main.c
+	"queue.h"
+
+1380073739 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 2\queue a3\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380073739 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 2\queue a3\boolean.h
+
+1380110249 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 2\queue a3\funct.c
+	"queue.h"
+
+1380110249 source:e:\struktur data\psda full\psda 2\queue a3\funct.c
+	"queue.h"
+
+1380073739 e:\struktur data\psda full\psda 2\queue a3\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380073739 e:\struktur data\psda full\psda 2\queue a3\boolean.h
+
+1380506228 source:e:\struktur data\psda full\psda 2\queue a3\main.c
+	"queue.h"
+

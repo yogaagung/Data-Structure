@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1380960606 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\main.c
+	"list.h"
+
+1380952680 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\boolean.h
+
+1380960157 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\funct.c
+	"list.h"
+
+1380960606 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1380982750 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\boolean.h
+
+1380960157 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1382753858 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 4\main.c
+	"list.h"
+
+1382753884 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 4\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 4\boolean.h
+
+1382754212 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 4\funct.c
+	"list.h"
+
+1382754212 source:e:\struktur data\psda full\psda 4\funct.c
+	"list.h"
+
+1382753884 e:\struktur data\psda full\psda 4\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 e:\struktur data\psda full\psda 4\boolean.h
+
+1382753858 source:e:\struktur data\psda full\psda 4\main.c
+	"list.h"
+

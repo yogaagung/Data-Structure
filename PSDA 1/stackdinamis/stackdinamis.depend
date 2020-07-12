@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1379228605 source:g:\tugas2 skolah\udinus\semester 3\struktur data\stackdinamis\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1379228605 g:\tugas2 skolah\udinus\semester 3\struktur data\stackdinamis\stack.h
+	"boolean.h"
+
+1379228567 g:\tugas2 skolah\udinus\semester 3\struktur data\stackdinamis\boolean.h
+
+1379228804 source:g:\tugas2 skolah\udinus\semester 3\struktur data\stackdinamis\funct.c
+	"stack.h"
+
+1379567345 source:g:\tugas2 skolah\udinus\semester 3\projek struktur data\stackdinamis\main.c
+	"stack.h"
+
+1379567345 g:\tugas2 skolah\udinus\semester 3\projek struktur data\stackdinamis\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1379567319 g:\tugas2 skolah\udinus\semester 3\projek struktur data\stackdinamis\boolean.h
+
+1379567143 source:g:\tugas2 skolah\udinus\semester 3\projek struktur data\stackdinamis\funct.c
+	"stack.h"
+
+1379617544 source:h:\university\udinus\psda full\psda 1\stackdinamis\funct.c
+	"stack.h"
+
+1379617746 h:\university\udinus\psda full\psda 1\stackdinamis\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1379617720 h:\university\udinus\psda full\psda 1\stackdinamis\boolean.h
+
+1379617544 source:j:\psda full\psda 1\stackdinamis\funct.c
+	"stack.h"
+
+1379617746 j:\psda full\psda 1\stackdinamis\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1379617720 j:\psda full\psda 1\stackdinamis\boolean.h
+
+1410869040 source:j:\psda full\psda 1\stackdinamis\main.c
+	"stack.h"
+
